@@ -1,7 +1,7 @@
-﻿Privacy Policy
+﻿Privacy Policy StockRoom Android App
 
 
-Last updated: (add date)
+Last updated: 08/04/2020
 
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
@@ -25,7 +25,7 @@ Like many site operators, we collect information that your browser sends wheneve
 This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
 
-In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this …
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this.
 
 
 The Log Data section is for businesses that use analytics or tracking services in websites or apps, like Google Analytics. For the full disclosure section, create your own Privacy Policy.
@@ -40,7 +40,7 @@ The Log Data section is for businesses that use analytics or tracking services i
 Communications
 
 
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that ...
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information.
 
 
 The Communications section is for businesses that may contact users via email (email newsletters) or other methods. For the full disclosure section, create your own Privacy Policy.
